@@ -1,28 +1,28 @@
 # Udacity MyStore
 
-MyStore is a single-page application  built in Angular, that offers a rich, dynamic experience on the web. It presents a list of product which can be added to a cart then chechout. Bellow are all the functionality one can perform: 
+Market place is a angular based  single-page application (SPA) to offers a rich, dynamic experience on the web.It displays a list of products that may be added to a shopping basket and then checked out. The following is a list of all the functions available:
 
-- View list of products
-- Add products to cart
-- View products in cart
-- Delete product from cart 
-- Checkout products in cart 
+* View list of products
+* Add products to cart
+* View products in cart
+* Delete product from cart 
+* Checkout products in cart 
 
 
 ## Run 
 ### Install Dependencies 
-fork this repo and open a terminal at the root directory and run the command 
+fork this repository and run the command in a terminal in the root directory.
 
 ```
 npm install
 ```
 
 ## Start server
-On the same terminal, run the command 
+Run the following command on same terminal:
 ```
 ng serve
 ```
-Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Go to 'http://localhost:4200/' and type in the address. If you make any changes to the source files, the program will reload automatically.
 
-**NB**: Be sure to allow the default port of `4200`
+
 
