@@ -29,21 +29,21 @@ The project is completed in a week timeline.
 * Create wireframes and mockups for the application
 
 
-###Week 2: Frontend Development
+### Week 2: Frontend Development
 
 * Create the project structure and setup development environment
 * Develop the frontend using Angular, implementing the required components and functionality
 * Integrate with the backend RESTful APIs
 * Implement user authentication and authorization
 
-###Week 3: Testing and Debugging
+### Week 3: Testing and Debugging
 
 * Conduct unit testing and integration testing of the application
 * Identify and fix any bugs or issues
 * Optimize the performance of the application
 
 
-###Week 4: Deployment and Launch
+### Week 4: Deployment and Launch
 
 * Deploy the application to a environment
 * Conduct final testing and ensure the application is fully functional
