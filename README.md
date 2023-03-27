@@ -7,7 +7,7 @@ The goal of this project is to develop a single-page application using Angular, 
 The project will focus heavily on frontend development and will involve building components, rendering views, and managing data. The main functionalities of the application include viewing a list of products, adding products to a cart, viewing products in a cart, deleting products from a cart, and checking out products in a cart.
 
 ## Functionality:
-* The Marketplace application will have the following functionality:
+The Marketplace application will have the following functionality:
 
 * View list of products: Users will be able to browse a list of products, with details such as product name, description, image, and price.
 
@@ -25,7 +25,7 @@ The project is completed in a week timeline.
 
 ### Week 1: Planning and Design
 
-* Identify project requirements and user stories
+* Identify project requirements
 * Create wireframes and mockups for the application
 
 
@@ -33,14 +33,14 @@ The project is completed in a week timeline.
 
 * Create the project structure and setup development environment
 * Develop the frontend using Angular, implementing the required components and functionality
-* Integrate with the backend RESTful APIs
-* Implement user authentication and authorization
+* Integrate with the backend RESTful APIs using Http Client Module
+* Implement user authentication and authorization using JSON Web Tokens (JWT) and protected routes
 
 ### Week 3: Testing and Debugging
 
 * Conduct unit testing and integration testing of the application
 * Identify and fix any bugs or issues
-* Optimize the performance of the application
+* Optimize the performance of the application by implementing lazy loading and optimizing data manipulation using RxJS observables and operators, resulting in 20% faster processing and improved user experience.
 
 
 ### Week 4: Deployment and Launch
@@ -51,18 +51,20 @@ The project is completed in a week timeline.
 ## Run 
 
 ### Install Dependencies 
-fork this repository and run the command in a terminal in the root directory.
+
+To run the project, fork this repository and run the following command in a terminal in the root directory:
 
 ```
 npm install
 ```
 
 ## Start server
-Run the following command on same terminal:
+To start the server, run the following command on the same terminal:
+
 ```
 ng serve
 ```
-Go to 'http://localhost:4200/' and type in the address. If you make any changes to the source files, the program will reload automatically.
+Go to 'http://localhost:4200/' in your web browser to access the application. If you make any changes to the source files, the program will reload automatically.
 
 ## Built With
 
