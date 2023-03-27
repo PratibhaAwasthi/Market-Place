@@ -72,4 +72,5 @@ Go to 'http://localhost:4200/' and type in the address. If you make any changes 
 * RxJS
 * Http Client Module
 * Typescript
+* Jasmine (for unit testing)
 
